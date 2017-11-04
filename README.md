@@ -1,4 +1,3 @@
-# resonance-audio-unreal-sdk
 Resonance Audio SDK for Unreal
 =====================
 Copyright (c) 2017 Google Inc.  All rights reserved.
